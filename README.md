@@ -5,4 +5,4 @@ Descargar proyecto.
 Instalar dependencias
 Correr Applications.java
 
-Probar en el browser localhst:9000/api/hello
+Probar en el browser localhost:9000/api/hello
